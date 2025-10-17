@@ -1,6 +1,4 @@
-## Hi there 👋
+## hello, welcome to my github! (working on it)
 
-- 🌱 I’m currently learning SDE fundamentals and principles.
-- 👯 I’m looking to collaborate on projects!
-- 📫 How to reach me: 1629saim@gmail.com
-- 😄 Pronouns: he/him
+- i'm super passionate about all things tech!
+- if you're interested in developing something with me, you can reach me on discord @sa.im
